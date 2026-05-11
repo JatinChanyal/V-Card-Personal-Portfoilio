@@ -1,7 +1,7 @@
 # vCard - Personal portfolio
 
-[![GitHub](https://github.com/JatinChanyalHub)
-[![Twitter Follow](https://github.com/JatinChanyalHub/My-Portfoilio.git)
+[![GitHub](https://img.shields.io/badge/github-profile-black?logo=github)](https://github.com/JatinChanyalHub)
+[![Twitter Follow](https://img.shields.io/badge/twitter-follow-blue?logo=twitter)](https://github.com/JatinChanyalHub/My-Portfoilio.git)
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
