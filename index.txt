@@ -64,7 +64,8 @@ Testimonials
 
 alt = Jhetalal Gada 
 Jhetalal Gada
-Jatin was hired to create a web Application. We were very pleased with the work done.He has a
+Jatin was hired to create a web Application. We were very pleased with the work done.He has a lot of experience
+and is very concerned about the needs of client. 
 
 alt = Jessica Miller
 Jessica miller
